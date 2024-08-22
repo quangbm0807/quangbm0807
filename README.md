@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Bui Minh QUang</h1>
+<h1 align="center">Hi 👋, I'm Bui Minh Quang</h1>
 <h3 align="center">A passionate fullstack developer from VietNam</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=quangbm0807&label=Profile%20views&color=0e75b6&style=plastic" alt="quangbm0807" /> </p>
