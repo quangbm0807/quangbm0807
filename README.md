@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bui Minh QUang</h1>
-<h3 align="center">A passionate fullstack developer from VietNam</h3>
+<h3 align="center">Do you hate bugs? I don't exactly like them, but I don't hate them either because I'm grateful for the valuable experience and learning opportunities they've given me.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=quangbm0807&label=Profile%20views&color=0e75b6&style=flat-square" alt="quangbm0807" /> </p>
 
