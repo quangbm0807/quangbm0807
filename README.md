@@ -14,7 +14,7 @@
 <a href="https://dev.to/quangbm0807" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="quangbm0807" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/quang-bui-minh-626724316/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="quang-bui-minh-626724316/" height="30" width="40" /></a>
 <a href="https://fb.com/bminhquangg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="bminhquangg" height="30" width="40" /></a>
-<a href="[https://www.youtube.com/c/@quangbui-oz7nt](https://www.youtube.com/@quangbui-oz7nt)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@quangbui-oz7nt" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@quangbui-oz7nt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@quangbui-oz7nt" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/nhocsocnhu2002/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nhocsocnhu2002/" height="30" width="40" /></a>
 </p>
 
