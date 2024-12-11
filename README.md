@@ -57,9 +57,10 @@ I'm a passionate developer on the journey to mastering full-stack development. I
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=quangbm0807&show_icons=true&theme=radical&locale=en)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=quangbm0807&theme=radical)](https://git.io/streak-stats)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=quangbm0807&show_icons=true&theme=radical&locale=en&layout=compact)
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=quangbm0807&theme=redical)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![GitHub Streak](https://streak-stats-proxy.vercel.app?user=quangbm0807&theme=radical)
 
 
 </div>
