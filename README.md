@@ -57,11 +57,10 @@ I'm a passionate developer on the journey to mastering full-stack development. I
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=quangbm0807&show_icons=true&theme=radical&locale=en)
 
-<img src="https://streak-stats.demolab.com/?user=quangbm0807&theme=radical" alt="GitHub Streak"/>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=quangbm0807&theme=radical)](https://git.io/streak-stats)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=quangbm0807&show_icons=true&theme=radical&locale=en&layout=compact)
 
-[![Trophy](https://github-profile-trophy.vercel.app/?username=quangbm0807&theme=radical&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
