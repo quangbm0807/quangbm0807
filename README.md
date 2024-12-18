@@ -18,7 +18,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate developer on the journey to mastering full-stack development. I believe in continuous learning and embrace challenges as opportunities for growth. My approach to debugging is unique – I see each bug as a valuable lesson that makes me a better developer.
+I'm a passionate developer on the journey to mastering full-stack development. I believe in continuous learning and embrace challenges as opportunities for growth. I see each bug as a valuable lesson that makes me a better developer.
 
 ## 💻 Technologies & Tools
 
