@@ -55,12 +55,12 @@ I'm a passionate developer on the journey to mastering full-stack development. I
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=quangbm0807&show_icons=true&theme=radical&locale=en)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=quangbm0807&show_icons=true&theme=dark&locale=en)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=quangbm0807&show_icons=true&theme=radical&locale=en&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=quangbm0807&show_icons=true&theme=dark&locale=en&layout=compact)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=quangbm0807&theme=redical)](https://github.com/ashutosh00710/github-readme-activity-graph)
-[![GitHub Streak](https://streak-stats.demolab.com?user=quangbm0807&theme=radical&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=quangbm0807&theme=dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![GitHub Streak](https://streak-stats.demolab.com?user=quangbm0807&theme=dark&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 
 
 </div>
