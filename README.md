@@ -52,11 +52,20 @@ I'm a passionate developer on the journey to mastering full-stack development. I
 ## 📊 GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/quangbm0807/your-project">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=quangbm0807&repo=your-project&theme=tokyonight&hide_border=true" />
+  
+  <a href="https://github.com/quangbm0807">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=quangbm0807&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=quangbm0807&layout=compact&theme=tokyonight&hide_border=true" />
   </a>
-  <!-- You can add more featured projects here -->
+  
+  <br/>
+  
+  [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=quangbm0807&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+  [![GitHub Streak](https://streak-stats.demolab.com?user=quangbm0807&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+  
 </div>
+
 
 ## 🤝 Let's Connect!
 
